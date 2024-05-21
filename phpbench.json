@@ -1,0 +1,5 @@
+{
+    "runner.bootstrap": "vendor/autoload.php",
+    "runner.file_pattern": "*Bench.php",
+    "runner.retry_threshold": 5
+}
